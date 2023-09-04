@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    background-color: rgb(149, 149, 173);
+}
+.area-ti{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.curso-adm{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
